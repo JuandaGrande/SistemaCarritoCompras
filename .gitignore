@@ -1,0 +1,21 @@
+#Vscode
+.vscode/
+
+# Cosas
+build/
+bin/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+
+# ejecutable
+*.exe
+
+# Doxygen
+docs/html/
+docs/latex/
